@@ -5,7 +5,7 @@
 ### Installation
 
 ```html
-
+<script src="../message-bus.js"></script>
 ```
 
 ### Example
